@@ -1,0 +1,35 @@
+# Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+x86/
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+*.ilk
+*.pdb
+*.idb
+*.exp
+*.lib
+*.obj
+
+# Скомпилированные файлы (бинарники)
+*.exe
+*.out
+*.app
+*.dll
+*.o
+
+# Системный мусор
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Кэш редакторов
+.vscode/
+.idea/
+*.swp
