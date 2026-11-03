@@ -1,4 +1,4 @@
-# AI Algorithms Collection
+# ai-algorithms-collection
 
 Собрание классических алгоритмов искусственного интеллекта, реализованных на **CLIPS** и **C++**.
 
