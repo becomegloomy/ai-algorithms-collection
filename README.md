@@ -19,8 +19,6 @@ ai-algorithms-collection/
     └── main.cpp
 ```
 
----
-
 ## Модули
 
 ### 1. clips-experts/ - Экспертные системы (CLIPS)
