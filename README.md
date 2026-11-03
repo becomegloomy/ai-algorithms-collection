@@ -4,6 +4,7 @@
 
 ## Структура проекта
 
+```text
 ai-algorithms-collection/
 ├── README.md
 ├── .gitignore
@@ -16,6 +17,7 @@ ai-algorithms-collection/
 │   └── heuristics.txt
 └── game-tree/
     └── main.cpp
+```
 
 ---
 
